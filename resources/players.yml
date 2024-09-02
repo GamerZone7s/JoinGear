@@ -1,0 +1,5 @@
+# players.yml
+# This file keeps track of the players who have already received their starter kit.
+
+# Example structure:
+# playerName: true

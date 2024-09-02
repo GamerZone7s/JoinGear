@@ -1,0 +1,17 @@
+# config.yml
+# This file is for configuring the JoinGear plugin settings.
+
+# Plugin General Information
+name: JoinGear
+version: 1.0.0
+api: 5.0.0
+author: GamerZone7s
+description: "A plugin to give kits to players on their first join."
+
+# Kit Settings
+kit-items:
+  - IRON_PICKAXE
+  - IRON_AXE
+  - IRON_SHOVEL
+  - WATER_BUCKET
+  - BREAD:10

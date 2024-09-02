@@ -1,0 +1,11 @@
+---
+name: JoinGear
+main: GamerZone7s\JoinGear\Main
+src-namespace-prefix: GamerZone7s\JoinGear
+version: 1.0.0
+api: 5.0.0
+author: GamerZone7s
+description: "A plugin to give kits to players on join."
+youtube: https://www.youtube.com/c/GamerZone7s
+website: https://indianzone7s.blogspot.com/
+...
